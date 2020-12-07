@@ -1,2 +1,2 @@
-# CLASSIFIED
-MILITARY PROJECT (LEVEL 4 AND HIGHER AUTHORIZATION ONLY)
+# p5.play-boilerplate
+Boiler plate for p5.play
